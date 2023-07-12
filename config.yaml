@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "https://akshaya101.github.io/"
+baseURL: ""
 title: Akshaya Chanchala
 paginate: 5
 theme: PaperMod
