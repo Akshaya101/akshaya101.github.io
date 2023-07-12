@@ -1,0 +1,82 @@
+languageCode: en-us
+baseURL: "https://akshaya101.github.io/"
+title: Akshaya Chanchala
+paginate: 5
+theme: PaperMod
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Akshaya Chanchala
+  description: "CSE Student, 2023 | Web Development Enthusiast | Web3 Beginner | Blogger"
+  keywords: [Blog, Portfolio]
+  author: Akshaya Chanchala
+  # author: ["Me", "You"] # multiple authors
+  #images: ["<link or path of image for opengraph, twitter-cards>"]
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Welcome! \U0001F44B"
+    subtitle: "Comp Science Grad. Loves to code and talk about tech."
+    # imageUrl: "images/dp.png"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: "Data Professor"
+    buttons:
+      - name: Blogs
+        url: blogs
+      - name: Projects
+        url: projects
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Welcome! \U0001F44B"
+    Content: "CSE Student, 2023 | Web Development Enthusiast | Web3 Beginner | Blogger"
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/akshaya-chanchala/"
+    - name: showwcase
+      url: "https://akshayachanchala.showwcase.com/"
+    - name: github
+      url: "https://github.com/Akshaya101"
+    - name: hashnode
+      url: "https://akshayachanchala.hashnode.dev/"
+    - name: email
+      url: "mailto:akshayachanchala9@gmail.com"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: blog
+      name: Blogs
+      url: /blogs/
+      weight: 4
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 4
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 4
+    - identifier: resume
+      name: Resume
+      url: "https://drive.google.com/file/d/1lmCkPGXFhvoTIrFQtHZfGhKHFwJwUyTC/view?usp=sharing"
+      weight: 4
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
