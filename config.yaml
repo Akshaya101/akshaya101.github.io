@@ -18,8 +18,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "Comp Science Grad. Loves to code and talk about tech."
+    title: "Hi! I'm Akshaya Chanchala \U0001F44B"
+    subtitle: "Computer Science Grad and a tech enthusiast. I love coffee and listening to podcasts."
     # imageUrl: "images/dp.png"
     # imageWidth: 120
     # imageHeight: 120
