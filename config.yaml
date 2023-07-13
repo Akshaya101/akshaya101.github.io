@@ -19,7 +19,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi! I'm Akshaya Chanchala \U0001F44B"
-    subtitle: "Computer Science Grad and a tech enthusiast. I love coffee and listening to podcasts."
+    subtitle: "CSE'23 | Web Development Enthusiast | Web3 Beginner | Blogger"
     # imageUrl: "images/dp.png"
     # imageWidth: 120
     # imageHeight: 120
