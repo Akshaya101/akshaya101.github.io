@@ -164,6 +164,16 @@ Cryptography is one of the most prominent bases for the existence of technologie
 
 Here are a few resources that helped me to understand more about Cryptography :
 
-🎙 [Security. Cryptography. Whatever.](https://open.spotify.com/show/0bMJ5a7e4er7yDHMuGs9jp) 
-<br>
-📖 [What is Cryptography? ](https://www.coinbase.com/learn/crypto-basics/what-is-cryptography)
+📖 **Something to Read**
+- [What is Cryptography? ](https://www.coinbase.com/learn/crypto-basics/what-is-cryptography)
+- [Introduction to Blockchain](https://brave.com/web3/intro-to-blockchain/#what-is-blockchain-technology)
+- [Introduction to Web3](https://ethereum.org/en/web3/)
+
+🎬 **Something to Watch**
+- [Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+- [Blockchain & Smart contracts: Digital Evolution Conference 2018](https://www.youtube.com/watch?v=HNCwbKAY7AM)
+
+🎙️ **Something to Listen**
+- [What is Blockchain and How does Blockchain Technology Work?](https://open.spotify.com/episode/4vQ9O9XMTYd1AFz0VxaWuj?si=sx2KlsLYQU-wh3gZRz8PDw)
+- [Security. Cryptography. Whatever.](https://open.spotify.com/show/0bMJ5a7e4er7yDHMuGs9jp)
+
