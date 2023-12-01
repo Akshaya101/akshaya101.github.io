@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Data, Data, Everywhere: A Deep Dive into Google's 'Foundations' Data Analytics Professional Certificate Course"
 date: 2023-10-05T20:25:10+05:30
 description: 'My learning journey through Foundations: Data, Data, Everywhere course, which is a part of Google Data Analytics Certification.'
@@ -12,7 +12,23 @@ cover:
     alt: "<alt text>"
     caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
+--- -->
 ---
+title: "Data, Data, Everywhere: A Deep Dive into Google\'s Foundations Data Analytics Professional Certificate Course "
+date: 2023-10-05T20:25:10+05:30
+description: 'My learning journey through Foundations: Data, Data, Everywhere course, which is a part of Google Data Analytics Certification.'
+ShowBreadCrumbs: true
+ShowToc: true
+TocOpen: false
+cover:
+    image: "images/data-analytics.jpg"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false # To use a relative path for the cover image, used in Hugo Page-bundles
+---
+
 ## Introduction
 
 “Data is the fuel of the 21st Century”, said a wise person once. Today, we find LLMs being used in almost every aspect of our day-to-day lives, making this statement extremely timely. An average human being in this world is exposed to some sort of technology that derives insights from the activity performed by them over a while or based on the choices they make. Right from the moment you wake up and long until winding down your day, you see data everywhere.
