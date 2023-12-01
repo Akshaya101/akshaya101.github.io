@@ -1,20 +1,5 @@
-<!-- ---
-title: "Data, Data, Everywhere: A Deep Dive into Google's 'Foundations' Data Analytics Professional Certificate Course"
-date: 2023-10-05T20:25:10+05:30
-description: 'My learning journey through Foundations: Data, Data, Everywhere course, which is a part of Google Data Analytics Certification.'
-ShowBreadCrumbs: true
-ShowToc: true
-TocOpen: false
-cover:
-    image: "images/data-analytics.jpg"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
---- -->
 ---
-title: "Data, Data, Everywhere: A Deep Dive into Google\'s Foundations Data Analytics Professional Certificate Course "
+title: "Data, Data, Everywhere: A Deep Dive into Google's 'Foundations' Data Analytics Professional Certificate Course"
 date: 2023-10-05T20:25:10+05:30
 description: 'My learning journey through Foundations: Data, Data, Everywhere course, which is a part of Google Data Analytics Certification.'
 ShowBreadCrumbs: true
@@ -28,6 +13,7 @@ cover:
     caption: "<text>"
     relative: false # To use a relative path for the cover image, used in Hugo Page-bundles
 ---
+
 
 ## Introduction
 
