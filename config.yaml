@@ -19,7 +19,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi! I'm Akshaya Chanchala \U0001F44B"
-    subtitle: "CSE'23 | Web Development Enthusiast | Web3 Beginner | Blogger"
+    subtitle: "CS Grad, 2023 | Tech Writer 📚 | MERN Stack Learner 🌐 | Blogger on Hashnode & Showwcase 📝"
     # imageUrl: "images/dp.png"
     # imageWidth: 120
     # imageHeight: 120
@@ -46,6 +46,8 @@ params:
       url: "https://akshayachanchala.hashnode.dev/"
     - name: email
       url: "mailto:akshayachanchala9@gmail.com"
+    - name: twitter
+      url: "https://twitter.com/akshaya_ch_"
 
   fuseOpts:
     isCaseSensitive: false
@@ -72,7 +74,7 @@ menu:
       weight: 4
     - identifier: resume
       name: Resume
-      url: "https://drive.google.com/file/d/115YuPWrpdtiM5k3Snz1PjUkrQu-1nhdW/view?usp=sharing"
+      url: "https://drive.google.com/file/d/115YuPWrpdtiM5k3Snz1PjUkrQu-1nhdW/view"
       weight: 4
 
 outputs:
