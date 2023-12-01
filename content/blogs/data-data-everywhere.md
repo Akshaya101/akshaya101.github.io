@@ -1,7 +1,7 @@
 ---
 title: "Data, Data, Everywhere: A Deep Dive into Google's 'Foundations' Data Analytics Professional Certificate Course"
 date: 2023-10-5T20:25:10+05:30
-description: 'My learning journey through Coursera's "Foundations: Data, Data, Everywhere" course, which is a part of Google Data Analytics Certification."'
+description: 'My learning journey through Coursera\'s Foundations: Data, Data, Everywhere" course, which is a part of Google Data Analytics Certification.'
 ShowBreadCrumbs: true
 ShowToc: true
 TocOpen: false
