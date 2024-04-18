@@ -29,8 +29,8 @@ params:
         url: blogs
       - name: Projects
         url: projects
-      - name: Design
-        url: design
+      # - name: Design
+      #   url: design
 
   # home-info mode
   homeInfoParams:
@@ -70,10 +70,10 @@ menu:
       name: Projects
       url: /projects/
       weight: 4
-    - identifier: design
-      name: Design
-      url: /design/
-      weight: 4
+    # - identifier: design
+    #   name: Design
+    #   url: /design/
+    #   weight: 4
     - identifier: search
       name: Search
       url: /search/
