@@ -29,6 +29,8 @@ params:
         url: blogs
       - name: Projects
         url: projects
+      - name: Work
+        url: work
       # - name: Design
       #   url: design
 
