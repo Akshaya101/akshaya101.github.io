@@ -21,20 +21,48 @@ Welcome to Ticket Portal, a web app developed for Imagine Her, a NGO dedicated t
 
 [Check the Ticket Portal here!](https://ticketportal.netlify.app/)
 
-## Features
+# Features
 
-### Client Side:
+## Client Side:
 - Clients can raise tickets in various categories to request assistance.
 - Easy-to-use interface for submitting tickets with clear categories.
 - Seamless ticket submission process for clients.
 
-### Admin Side:
+### Client Side Features:
+
+![Raise Tickets on the Client Side](/static/images/TP_Client_Raise_Tickets.png)
+*Raise Tickets on the Client Side*
+
+![Track Tickets on the Client Side](/static/images/TP_Client_track_tickets.png)
+*Track Tickets on the Client Side*
+
+![View Tickets on the Client Side](/static/images/TP_Client_View_Tickets.png)
+*View Tickets on the Client Side*
+
+## Admin Side:
 - Administrators can view all incoming tickets categorized as pending, in review, or resolved.
 - Admins can manage ticket statuses by marking them as pending, in review, or resolved.
 - Introduction of a new feature called "Reference Comment" allows admins to add comments upon resolving a ticket for future reference.
 - Ability to reclassify tickets as necessary based on resolution outcomes.
 - Filtering options to view tickets based on dates.
 - Download tickets based on specified dates.
+
+### Admin Side Features:
+
+![Home on the Admin Side](/static/images/TP_Home.png)
+*Home on the Admin Side*
+
+![View Recent Tickets on the Admin Side](/static/images/TP_Admin_Recent_Tickets.png)
+*View Recent Tickets on the Admin Side*
+
+![Cateory Specific Tickets on the Admin Side](/static/images/TP_Admin_View_Tickets.png)
+*View Category Specific Tickets on the Admin Side*
+
+![View Ticket Details on the Admin Side](/static/images/TP_Admin_Tickets.png)
+*View Ticket Details on the Admin Side*
+
+![Analytics Details on the Admin Side](/static/images/TP_Admin_Analytics.png)
+*View All Tickets raised on the Admin Side*
 
 ## Technologies Used
 - **MongoDB**: A flexible and scalable NoSQL database used for storing ticket data.
