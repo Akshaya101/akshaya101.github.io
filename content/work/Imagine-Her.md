@@ -30,13 +30,13 @@ Welcome to Ticket Portal, a web app developed for Imagine Her, a NGO dedicated t
 
 ### Client Side Features:
 
-![Raise Tickets on the Client Side](/static/images/TP_Client_Raise_Tickets.png)
+![Raise Tickets on the Client Side](images/TP_Client_Raise_Tickets.png)
 *Raise Tickets on the Client Side*
 
-![Track Tickets on the Client Side](/static/images/TP_Client_track_tickets.png)
+![Track Tickets on the Client Side](images/TP_Client_track_tickets.png)
 *Track Tickets on the Client Side*
 
-![View Tickets on the Client Side](/static/images/TP_Client_View_Tickets.png)
+![View Tickets on the Client Side](images/TP_Client_View_Tickets.png)
 *View Tickets on the Client Side*
 
 ## Admin Side:
@@ -49,19 +49,19 @@ Welcome to Ticket Portal, a web app developed for Imagine Her, a NGO dedicated t
 
 ### Admin Side Features:
 
-![Home on the Admin Side](/static/images/TP_Home.png)
+![Home on the Admin Side](images/TP_Home.png)
 *Home on the Admin Side*
 
-![View Recent Tickets on the Admin Side](/static/images/TP_Admin_Recent_Tickets.png)
+![View Recent Tickets on the Admin Side](images/TP_Admin_Recent_Tickets.png)
 *View Recent Tickets on the Admin Side*
 
-![Cateory Specific Tickets on the Admin Side](/static/images/TP_Admin_View_Tickets.png)
+![Cateory Specific Tickets on the Admin Side](images/TP_Admin_View_Tickets.png)
 *View Category Specific Tickets on the Admin Side*
 
-![View Ticket Details on the Admin Side](/static/images/TP_Admin_Tickets.png)
+![View Ticket Details on the Admin Side](images/TP_Admin_Tickets.png)
 *View Ticket Details on the Admin Side*
 
-![Analytics Details on the Admin Side](/static/images/TP_Admin_Analytics.png)
+![Analytics Details on the Admin Side](images/TP_Admin_Analytics.png)
 *View All Tickets raised on the Admin Side*
 
 ## Technologies Used
