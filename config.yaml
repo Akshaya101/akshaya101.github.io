@@ -42,8 +42,6 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/akshaya-chanchala/"
-    - name: showwcase
-      url: "https://www.showwcase.com/akshaya101"
     - name: github
       url: "https://github.com/Akshaya101"
     - name: hashnode
@@ -82,7 +80,7 @@ menu:
       weight: 4
     - identifier: resume
       name: Resume
-      url: "https://drive.google.com/file/d/1Hq4jBmTkXhpwD7VxmzJKPGj93VGsAZJC/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1IFl8eMVwIZytqJz3rNIUDqyOGyCZdLhr/view?usp=sharing"
       weight: 4
 
 outputs:
